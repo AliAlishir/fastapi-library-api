@@ -155,7 +155,3 @@ The API returns an HTTP `404 Not Found` response when a requested book does not 
 ## Security
 
 Database credentials are stored in environment variables rather than hardcoded in the application. The `.env` file should not be committed to version control.
-
-## License
-
-No license has been specified for this project.
